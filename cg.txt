@@ -2,10 +2,10 @@ Version 0.1 Updated on 3/21/2025 at 11:21am EST
 
 Welcome to SDVR, Here are the rules to follow while playing on our platform.
 We have Multiple levels of guidelines:
- Community
- Creator
- Content
- Group
+ Community - For Everyone to follow
+ Creator - For Users to follow when createing Avatars, Worlds, and Applications for SDVR
+ Content - For users to follow when createing Videos, Pictures, Or Any Social Media
+ Group - For Users to follow when it comes to Createing, Moderating, and Maintaining Groups
 
 = = = = Community Guidelines = = = =
 
@@ -44,7 +44,7 @@ Private- Is not inside of the in-game avatar search, only you can wear or use th
 
 1. No Politics- SDVR dose not allow anything that has to deal with IRL politics in our platform, Politics on avatars will result in a 2 week ban form the game.
 
-2. NSFW Content- Any and All NSFW or Sexually suggestive content must be marked 18+ when uploading, not doing this will result in you avatar being deleted and you account suspended for 2 weeks
+2. NSFW Content- Any and All NSFW or Sexually suggestive content must be marked with the 18+ content tag when uploading, not doing this will result in you avatar being deleted and you account suspended for 2 weeks, Then 4 on next occurance, then a permanent ban.
 
 
 = = World Guidelines = =
@@ -52,5 +52,17 @@ Private- Is not inside of the in-game avatar search, only you can wear or use th
 1. No World Moderation Systems- You may only use SDVR's built in moderation systems, there are 4 levels:
   Instance - Allows for kicking and banning from the instance
   Group - Allows for kicking and banning from the group(Only applies to Group Instances)
-  World - Allows for Banning from the world
+  World - Allows for Banning from the world (Only Applies to World owner and set administrators)
   Game - Allows for Kicking and Banning from the game, also allows to warn a user (Only applies to Staff Members)
+
+2. NSFW or Anything that may be considered Hurtful Or Harmful Must be marked with appropriate content tags
+2a. Any world that contains NSWF/Sexually suggestive content must be content tagged with the 18+ content tag ( Not doing so will result in a 2 week ban, next is 4, then a permanent ban )
+
+= = = = Group Guidelines = = = =
+SDVR has a group system, this system has very diffrent rules from other games tho,
+
+1. 18+ Groups, Any group that will use a 18+ world or is about a 18+ topic must be marked 18+
+2. Groups may impose rules, the client will then bring up the groups rules when you join a groups instance.
+2a. Group rules may not break our rules.
+3. Groups may moderate how they see fit, BUT it must be reasonable, Banning a person from a group for no reason may result in your groups moderation perms being disabled, or your whole group being disabled in general
+3a. Groups are required to have an appeals process
