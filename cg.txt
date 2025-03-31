@@ -1,1 +1,51 @@
-- - - To Be Added - - -
+Welcome to SDVR, Here are the rules to follow while playing on our platform.
+
+Version 0.1 Updated on 3/21/2025 at 11:21am EST
+
+= = = = Community Guidelines = = = =
+
+1. Age Requirement- SDVR is a 16+ Game, Only people with the "Whitelisted" Badge in game are allowed to be underage.
+1a. Parent/Gaurdian Permisson- if you are under the age of 18, You must get permission from your parent or guardian in order to play SDVR.
+
+2. No Politics- SDVR dose not allow anything that has to deal with IRL politics in our platform, Talking about IRL politics in game will result in a 1 week ban.
+
+3. No ERP in Public- SDVR is meant to be a kid friendly game, there for we will not allow ERP/NSFW in public instances, unless instance is marked 18+.
+
+4. No Drama- We will not tolerate drama on our platform, Causeing or Starting Drama will result in a 1 hour kick from the game on first offence.
+
+5. Keep private things private-  If you have avatars or other content that might be sensitive, intimate, or provocative, keep it in private spaces with users that agree to see it.
+
+6.Do not Harm or Hurt anyone- We do not tolerate Bullying or Hurt/Harming anyone on our platform, if you have a problem with someone, bring it up to a staff member.
+
+7. Client Modding- SDVR dose not allow anyform of client modding, Anything that changes/edits/adds/removes files from the game or edits/adds/changes/removes items from the games RAM is in violation of our rules and will result in a permanant IP ban.
+
+
+= = = = Creator Guidelines = = = =
+
+= = 3rd Party Services/API Usage = =
+SDVR provides API docs at (URL TO BE ADDED)
+
+1. You may not act on behalf of the user, anything that you application dose that will act on behalf of the user requires a Clear and Readable warning explaining anything and everything your application dose
+
+2.You may only use SDVR's Official OAuth Service, you may not ask for user login info at anytime.
+
+
+= = Avatar Guidelines = =
+SDVR has 4 avatar publicity settings:
+Public- Is inside of the In-Game avatar search, anyone can clone, wear, or use
+Unlisted- Is not Inside of the In-Game Avatar search, anyone can clone, wear, or use
+Whitelisted- Is not inside of the in-game avatar search, only people you allow can wear/clone
+Private- Is not inside of the in-game avatar search, only you can wear or use the avatar
+
+1. No Politics- SDVR dose not allow anything that has to deal with IRL politics in our platform, Politics on avatars will result in a 2 week ban form the game.
+
+2. NSFW Content- Any and All NSFW or Sexually suggestive content must be marked 18+ when uploading, not doing this will result in you avatar being deleted and you account suspended for 2 weeks
+
+
+= = World Guidelines = =
+
+1. No World Moderation Systems- You may only use SDVR's built in moderation systems, there are 4 levels:
+  Instance - Allows for kicking and banning from the instance
+  Group - Allows for kicking and banning from the group(Only applies to Group Instances)
+  World - Allows for Banning from the world
+  Game - Allows for Kicking and Banning from the game, also allows to warn a user (Only applies to Staff Members)
