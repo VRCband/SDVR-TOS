@@ -23,7 +23,9 @@ We have Multiple levels of guidelines:
 6.Do not Harm or Hurt anyone- We do not tolerate Bullying or Hurt/Harming anyone on our platform, if you have a problem with someone, bring it up to a staff member.
 
 7. Client Modding- SDVR dose not allow anyform of client modding, Anything that changes/edits/adds/removes files from the game or edits/adds/changes/removes items from the games RAM is in violation of our rules and will result in a permanant IP ban.
+7a. Bugs, You are required to report any bugs to the SDVR Dev Team ASAP, This could be the diffrence between our game existing or not
 
+8. No Harrassment- SDVR dose not tolerate 
 
 = = = = Creator Guidelines = = = =
 
@@ -57,6 +59,9 @@ Private- Is not inside of the in-game avatar search, only you can wear or use th
 
 2. NSFW or Anything that may be considered Hurtful Or Harmful Must be marked with appropriate content tags
 2a. Any world that contains NSWF/Sexually suggestive content must be content tagged with the 18+ content tag ( Not doing so will result in a 2 week ban, next is 4, then a permanent ban )
+
+
+
 
 = = = = Group Guidelines = = = =
 SDVR has a group system, this system has very diffrent rules from other games tho,
