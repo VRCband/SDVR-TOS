@@ -1,4 +1,4 @@
-Version 0.1 Updated on 3/21/2025 at 11:21am EST
+Version 0.1 Updated on 4/1/2025 at 11:28am EST
 
 Welcome to SDVR, Here are the rules to follow while playing on our platform.
 We have Multiple levels of guidelines:
@@ -60,6 +60,15 @@ Private- Is not inside of the in-game avatar search, only you can wear or use th
 2. NSFW or Anything that may be considered Hurtful Or Harmful Must be marked with appropriate content tags
 2a. Any world that contains NSWF/Sexually suggestive content must be content tagged with the 18+ content tag ( Not doing so will result in a 2 week ban, next is 4, then a permanent ban )
 
+
+
+= = = = Content Guidelines = = = =
+
+Anything that you take/make using SDVR must follow these guidelines:
+1. Everything must follow our Community Guidelines
+2. No NSFW Content online unless posted to a whitelist of websites, avaliable at https://sdvr.vrcband.com/home/nsfw/whitelist This requires you to verify your age.
+3. You May Monitize Contnet you create on SDVR but only using the authorized Monetization Methods (including advertising and partner programs of live streaming services and available to the public for free). Other forms of monetization of our intellectual property for commercial purposes are not permitted (including limiting access to our content for payment of any kind) or licensing our content to another company for a fee of any kind.
+4. All content requires the tag #MadeWithSDVR
 
 
 
