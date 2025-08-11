@@ -9,7 +9,7 @@ We have Multiple levels of guidelines:
 
 = = = = Community Guidelines = = = =
 
-1. Age Requirement- SDVR is a 16+ Game, Only people with the "Whitelisted" Badge in game are allowed to be underage.
+1. Age Requirement- SDVR is a 13+ Game, Only people with the "Whitelisted" Badge in game are allowed to be underage.
 1a. Parent/Gaurdian Permisson- if you are under the age of 18, You must get permission from your parent or guardian in order to play SDVR.
 
 2. No Politics- SDVR dose not allow anything that has to deal with IRL politics in our platform, Talking about IRL politics in game will result in a 1 week ban.
@@ -20,19 +20,19 @@ We have Multiple levels of guidelines:
 
 5. Keep private things private-  If you have avatars or other content that might be sensitive, intimate, or provocative, keep it in private spaces with users that agree to see it.
 
-6.Do not Harm or Hurt anyone- We do not tolerate Bullying or Hurt/Harming anyone on our platform, if you have a problem with someone, bring it up to a staff member.
+6. Do not Harm or Hurt anyone- We do not tolerate Bullying or Hurt/Harming anyone on our platform, if you have a problem with someone, bring it up to a staff member.
 
 7. Client Modding- SDVR dose not allow anyform of client modding, Anything that changes/edits/adds/removes files from the game or edits/adds/changes/removes items from the games RAM is in violation of our rules and will result in a permanant IP ban.
 7a. Bugs, You are required to report any bugs to the SDVR Dev Team ASAP, This could be the diffrence between our game existing or not
 
-8. No Harrassment- SDVR dose not tolerate 
+8. No Harrassment- SDVR dose not tolerate Harrassment or Racism of any kind.
 
 = = = = Creator Guidelines = = = =
 
 = = 3rd Party Services/API Usage = =
 SDVR provides API docs at (URL TO BE ADDED)
 
-1. You may not act on behalf of the user, anything that you application dose that will act on behalf of the user requires a Clear and Readable warning explaining anything and everything your application dose
+1. You may not act on behalf of the user, anything that you application dose that will act on behalf of the user requires a Clear and Readable warning explaining anything and everything your application dose.
 
 2.You may only use SDVR's Official OAuth Service, you may not ask for user login info at anytime.
 
