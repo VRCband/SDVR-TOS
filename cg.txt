@@ -62,6 +62,8 @@ Private- Is not inside of the in-game avatar search, only you can wear or use th
 2. NSFW or Anything that may be considered Hurtful Or Harmful Must be marked with appropriate content tags
 2a. Any world that contains NSWF/Sexually suggestive content must be content tagged with the 18+ content tag ( Not doing so will result in a 2 week ban, next is 4, then a permanent ban )
 
+3. Any type of in-game gambleing that uses any type of Real Currency (Include conversions between currencies, IE: SDVR Token to In-World Currency)
+
 
 
 = = = = Content Guidelines = = = =
